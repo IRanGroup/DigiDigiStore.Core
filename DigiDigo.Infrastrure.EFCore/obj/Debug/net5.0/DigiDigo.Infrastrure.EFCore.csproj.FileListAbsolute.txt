@@ -1,0 +1,15 @@
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\bin\Debug\net5.0\DigiDigo.Infrastrure.EFCore.deps.json
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\bin\Debug\net5.0\DigiDigo.Infrastrure.EFCore.runtimeconfig.json
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\bin\Debug\net5.0\DigiDigo.Infrastrure.EFCore.runtimeconfig.dev.json
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\bin\Debug\net5.0\DigiDigo.Infrastrure.EFCore.dll
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\bin\Debug\net5.0\ref\DigiDigo.Infrastrure.EFCore.dll
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\bin\Debug\net5.0\DigiDigo.Infrastrure.EFCore.pdb
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\obj\Debug\net5.0\DigiDigo.Infrastrure.EFCore.csproj.AssemblyReference.cache
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\obj\Debug\net5.0\DigiDigo.Infrastrure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\obj\Debug\net5.0\DigiDigo.Infrastrure.EFCore.AssemblyInfoInputs.cache
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\obj\Debug\net5.0\DigiDigo.Infrastrure.EFCore.AssemblyInfo.cs
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\obj\Debug\net5.0\DigiDigo.Infrastrure.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\obj\Debug\net5.0\DigiDigo.Infrastrure.EFCore.dll
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\obj\Debug\net5.0\ref\DigiDigo.Infrastrure.EFCore.dll
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\obj\Debug\net5.0\DigiDigo.Infrastrure.EFCore.pdb
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\obj\Debug\net5.0\DigiDigo.Infrastrure.EFCore.genruntimeconfig.cache

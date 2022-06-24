@@ -1,0 +1,15 @@
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Application\bin\Debug\net5.0\DigiDigo.Application.deps.json
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Application\bin\Debug\net5.0\DigiDigo.Application.dll
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Application\bin\Debug\net5.0\ref\DigiDigo.Application.dll
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Application\bin\Debug\net5.0\DigiDigo.Application.pdb
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Application\bin\Debug\net5.0\DigiDigo.Application.contract.dll
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Application\bin\Debug\net5.0\DigiDigo.Application.contract.pdb
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Application\obj\Debug\net5.0\DigiDigo.Application.csproj.AssemblyReference.cache
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Application\obj\Debug\net5.0\DigiDigo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Application\obj\Debug\net5.0\DigiDigo.Application.AssemblyInfoInputs.cache
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Application\obj\Debug\net5.0\DigiDigo.Application.AssemblyInfo.cs
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Application\obj\Debug\net5.0\DigiDigo.Application.csproj.CoreCompileInputs.cache
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Application\obj\Debug\net5.0\DigiDigo.Application.csproj.CopyComplete
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Application\obj\Debug\net5.0\DigiDigo.Application.dll
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Application\obj\Debug\net5.0\ref\DigiDigo.Application.dll
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Application\obj\Debug\net5.0\DigiDigo.Application.pdb
