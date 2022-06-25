@@ -79,3 +79,8 @@ C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Presentation.MvcCore\obj\Deb
 C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Presentation.MvcCore\obj\Debug\net5.0\ref\DigiDigo.Presentation.MvcCore.dll
 C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Presentation.MvcCore\obj\Debug\net5.0\DigiDigo.Presentation.MvcCore.pdb
 C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Presentation.MvcCore\obj\Debug\net5.0\DigiDigo.Presentation.MvcCore.genruntimeconfig.cache
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Presentation.MvcCore\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Presentation.MvcCore\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Presentation.MvcCore\obj\Debug\net5.0\Razor\Views\Shared\_Meta.cshtml.g.cs
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Presentation.MvcCore\obj\Debug\net5.0\Razor\Views\Shared\_Script.cshtml.g.cs
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Presentation.MvcCore\obj\Debug\net5.0\Razor\Views\Shared\_Style.cshtml.g.cs
