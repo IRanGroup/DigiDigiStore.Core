@@ -1,5 +1,4 @@
-﻿using DigiDigo.Application.contract.ProductAppCon;
-using DigiDigo.Domain.ProductAgg;
+﻿using DigiDigo.Domain.ProductAgg;
 using System.Collections.Generic;
 using System.Linq;
 

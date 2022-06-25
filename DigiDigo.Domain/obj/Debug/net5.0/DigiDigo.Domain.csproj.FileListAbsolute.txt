@@ -2,7 +2,6 @@ C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\bin\Debug\net5.0\Digi
 C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\bin\Debug\net5.0\DigiDigo.Domain.dll
 C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\bin\Debug\net5.0\ref\DigiDigo.Domain.dll
 C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\bin\Debug\net5.0\DigiDigo.Domain.pdb
-C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\obj\Debug\net5.0\DigiDigo.Domain.csproj.AssemblyReference.cache
 C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\obj\Debug\net5.0\DigiDigo.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\obj\Debug\net5.0\DigiDigo.Domain.AssemblyInfoInputs.cache
 C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\obj\Debug\net5.0\DigiDigo.Domain.AssemblyInfo.cs
@@ -10,3 +9,7 @@ C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\obj\Debug\net5.0\Digi
 C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\obj\Debug\net5.0\DigiDigo.Domain.dll
 C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\obj\Debug\net5.0\ref\DigiDigo.Domain.dll
 C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\obj\Debug\net5.0\DigiDigo.Domain.pdb
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\bin\Debug\net5.0\DigiDigo.Domain.runtimeconfig.json
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\bin\Debug\net5.0\DigiDigo.Domain.runtimeconfig.dev.json
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\obj\Debug\net5.0\DigiDigo.Domain.genruntimeconfig.cache
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Domain\obj\Debug\net5.0\DigiDigo.Domain.csproj.AssemblyReference.cache

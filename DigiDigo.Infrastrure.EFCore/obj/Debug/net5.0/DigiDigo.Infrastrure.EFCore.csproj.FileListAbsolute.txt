@@ -13,3 +13,6 @@ C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\obj\Debug
 C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\obj\Debug\net5.0\ref\DigiDigo.Infrastrure.EFCore.dll
 C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\obj\Debug\net5.0\DigiDigo.Infrastrure.EFCore.pdb
 C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\obj\Debug\net5.0\DigiDigo.Infrastrure.EFCore.genruntimeconfig.cache
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\bin\Debug\net5.0\DigiDigo.Domain.dll
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\bin\Debug\net5.0\DigiDigo.Domain.pdb
+C:\Users\amirsam\source\repos\DigiDigo_APP\DigiDigo.Infrastrure.EFCore\obj\Debug\net5.0\DigiDigo.Infrastrure.EFCore.csproj.CopyComplete

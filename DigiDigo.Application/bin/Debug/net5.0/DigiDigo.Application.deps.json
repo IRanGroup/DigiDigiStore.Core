@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v5.0": {
       "DigiDigo.Application/1.0.0": {
         "dependencies": {
-          "DigiDigo.Application.contract": "1.0.0"
+          "DigiDigo.Application.contract": "1.0.0",
+          "DigiDigo.Domain": "1.0.0"
         },
         "runtime": {
           "DigiDigo.Application.dll": {}
@@ -17,6 +18,11 @@
       "DigiDigo.Application.contract/1.0.0": {
         "runtime": {
           "DigiDigo.Application.contract.dll": {}
+        }
+      },
+      "DigiDigo.Domain/1.0.0": {
+        "runtime": {
+          "DigiDigo.Domain.dll": {}
         }
       }
     }
@@ -28,6 +34,11 @@
       "sha512": ""
     },
     "DigiDigo.Application.contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DigiDigo.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

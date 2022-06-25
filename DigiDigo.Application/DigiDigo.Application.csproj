@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DigiDigo.Application.contract\DigiDigo.Application.contract.csproj" />
+    <ProjectReference Include="..\DigiDigo.Domain\DigiDigo.Domain.csproj" />
   </ItemGroup>
 
 </Project>
