@@ -1,4 +1,5 @@
-﻿using DigiDigo.Domain.ProductAgg;
+﻿using DigiDigo.Domain.ItemAgg;
+using DigiDigo.Domain.ProductAgg;
 using DigiDigo.Infrastrure.EFCore.Mapping.Products;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,6 +14,7 @@ namespace DigiDigo.Infrastrure.EFCore
 
         #region Database Entities 
         public DbSet<Product> Products { get; set; }
+        public DbSet<Item> Items { get; set; }
         #endregion
 
 

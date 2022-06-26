@@ -4,14 +4,16 @@ using DigiDigo.Infrastrure.EFCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace DigiDigo.Infrastrure.EFCore.Migrations
 {
     [DbContext(typeof(DigiDigoContext))]
-    partial class DigiDigoContextModelSnapshot : ModelSnapshot
+    [Migration("20220625020513_InitialEntitysItemAndRelationMapping")]
+    partial class InitialEntitysItemAndRelationMapping
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

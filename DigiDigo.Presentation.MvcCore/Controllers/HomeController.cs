@@ -1,4 +1,5 @@
-﻿using DigiDigo.Presentation.MvcCore.Models;
+﻿using DigiDigo.Application.contract.ProductAppCon;
+using DigiDigo.Presentation.MvcCore.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -11,16 +12,18 @@ namespace DigiDigo.Presentation.MvcCore.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        private readonly IProductApplication _product;
+
+        public HomeController(IProductApplication product)
         {
-            _logger = logger;
+            _product = product;
         }
 
         public IActionResult Index()
         {
-            return View();
+            
+            return View(_product.SelectAll());
         }
 
         public IActionResult Privacy()

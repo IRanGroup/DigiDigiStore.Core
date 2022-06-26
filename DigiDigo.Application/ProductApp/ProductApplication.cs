@@ -15,19 +15,19 @@ namespace DigiDigo.Application.ProductApp
 
         public IEnumerable<ProductViewModel> SelectAll()
         {
-            var ProductList = _ProductRepository.All();
-            var Products = new List<ProductViewModel>();
-            foreach (var item in ProductList)
+            var ProductAll = _ProductRepository.All();
+            var Resualt = new List<ProductViewModel>();
+            foreach (var item in ProductAll)
             {
-                Products.Add(new ProductViewModel()
+                Resualt.Add(new ProductViewModel()
                 {
                     Id = item.ProductId,
                     Name = item.Title,
-                    ImageName = item.ImageName,
-                    Price = 2123
+                    ImageName=item.ImageName,
+                    Price=item.Item.Price
                 });
             }
-            return Products;
+            return Resualt;
         }
 
 

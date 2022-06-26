@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DigiDigo.Domain.ItemAgg;
+using System;
 
 namespace DigiDigo.Domain.ProductAgg
 {
@@ -11,6 +12,11 @@ namespace DigiDigo.Domain.ProductAgg
         public DateTime CreationDate { get; private set; }
         public bool IsExisting { get; private set; }
         public bool IsDeleted { get; private set; }
+
+        // Relation To Item
+        public int ItemId { get; set; }
+        public Item Item { get; set; }
+        // END Relation To Item
 
         public Product(string title, string description)
         {

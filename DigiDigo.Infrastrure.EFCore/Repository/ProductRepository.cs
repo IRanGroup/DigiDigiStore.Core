@@ -1,4 +1,5 @@
 ﻿using DigiDigo.Domain.ProductAgg;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -15,7 +16,7 @@ namespace DigiDigo.Infrastrure.EFCore.Repository
 
         public IList<Product> All()
         {
-            return _Context.Products.ToList();
+            return _Context.Products.Include(i => i.Item).ToList();
         }
 
     }
