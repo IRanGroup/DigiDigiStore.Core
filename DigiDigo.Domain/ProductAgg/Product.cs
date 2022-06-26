@@ -1,5 +1,7 @@
 ﻿using DigiDigo.Domain.ItemAgg;
+using DigiDigo.Domain.ProductRoleAgg;
 using System;
+using System.Collections.Generic;
 
 namespace DigiDigo.Domain.ProductAgg
 {
@@ -16,7 +18,10 @@ namespace DigiDigo.Domain.ProductAgg
         // Relation To Item
         public int ItemId { get; set; }
         public Item Item { get; set; }
-        // END Relation To Item
+
+        //Relation To ProductRole
+        public List<ProductRole> ProductRole { get; set; }
+
 
         public Product(string title, string description)
         {

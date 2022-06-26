@@ -8,6 +8,7 @@ namespace DigiDigo.Infrastrure.EFCore.Mapping.Products
     {
         public void Configure(EntityTypeBuilder<Product> builder)
         {
+            builder.ToTable("Products");
             builder.HasKey(x => x.ProductId);
 
             builder.Property(x => x.Title).HasMaxLength(200).IsRequired();
@@ -17,7 +18,7 @@ namespace DigiDigo.Infrastrure.EFCore.Mapping.Products
 
             //Mapping Relation 
             builder.HasOne(x => x.Item)
-                .WithMany(x => x.Product).HasForeignKey("ItemId");
+                .WithMany(x => x.Product).HasForeignKey(z=>z.ItemId);
 
         }
     }

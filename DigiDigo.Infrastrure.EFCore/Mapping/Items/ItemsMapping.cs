@@ -9,10 +9,11 @@ using System.Threading.Tasks;
 
 namespace DigiDigo.Infrastrure.EFCore.Mapping.Items
 {
-    public class ItemMapping : IEntityTypeConfiguration<Item>
+    public class ItemsMapping : IEntityTypeConfiguration<Item>
     {
         public void Configure(EntityTypeBuilder<Item> builder)
         {
+            builder.ToTable("Items");
             builder.HasKey(x => x.ItemId);
 
             builder.Property(x => x.Quntity).IsRequired();
@@ -23,7 +24,7 @@ namespace DigiDigo.Infrastrure.EFCore.Mapping.Items
 
             //Mapping Relation 
             builder.HasMany(x => x.Product).WithOne(x => x.Item)
-                .HasForeignKey("ItemId");
+                .HasForeignKey(z=>z.ItemId);
 
 
         }
